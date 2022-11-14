@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Seam Carving/task" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/out" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/BufferedImage functions" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/Print color" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/RGB 24-bit" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing four circles" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing three strings" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing two lines" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Supported formats" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Comprehension of inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Default modifiers" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Fix bugs" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Avoiding an NPE" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Elvis throwing exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Safe round" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Fix bugs" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Code review" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Inside a function" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Power and scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Types of scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/What is the scope" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Barista problem" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Creating news" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Fabric manufacture" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Spot the error" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Compare the results" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fourth root" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fractional part" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Heron's formula" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Pow" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Sine and cosine" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type system/String length" />
+            <option value="$PROJECT_DIR$/Topics/Type system/String or Int" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Super super type" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

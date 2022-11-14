@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Seam Carving/task/build/
+/Seam Carving/task/out/production/classes/
+/Seam Carving/task/out/test/classes/
+/Topics/Null safety/Elvis throwing exceptions/out/
+/Topics/Null safety/Elvis throwing exceptions/out/production/classes/
+/Topics/Scopes/Power and scopes/out/
+/Topics/Scopes/Power and scopes/out/production/classes/
+/Topics/Secondary constructor/Barista problem/out/
+/Topics/Secondary constructor/Barista problem/out/production/classes/
+/Topics/Secondary constructor/Fabric manufacture/out/
+/Topics/Secondary constructor/Fabric manufacture/out/production/classes/
+/Topics/The Math library/Fractional part/out/
+/Topics/The Math library/Fractional part/out/production/classes/
+/Topics/The Math library/Sine and cosine/out/
+/Topics/The Math library/Sine and cosine/out/production/classes/

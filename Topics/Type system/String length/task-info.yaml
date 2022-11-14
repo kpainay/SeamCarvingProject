@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun getLength(input: String?): Int {
+        return 0
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9696#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 13 Nov 2022 16:16:46 UTC"
+record: -1

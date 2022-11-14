@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import kotlin.math.*
+
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4562#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 26 Oct 2022 03:17:18 UTC"
+record: -1
